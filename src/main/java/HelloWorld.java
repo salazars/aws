@@ -4,6 +4,6 @@ public class HelloWorld {
         System.out.println("hello world local modify b and remote modify g");
         System.out.println("hello myBranch");
         System.out.println("hello from forkconsole");
-        System.out.println("myForkMaster");
+        System.out.println("hello from myForkMaster bb");
     }
 }
